@@ -1,0 +1,17 @@
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr>
+<td bgcolor="#eeeeff">
+<!--template:message--!>
+</td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td bgcolor="#ffffdd">
+<!--template:name--!>
+-
+<!--template:date--!>
+[
+<!--template:time--!>
+]<br>
+</td></tr></table>
+<br>
+
+<!--template:newmessage-placeholder--!>
+
